@@ -1,8 +1,8 @@
-# CityPulse — Definición de proyecto
+# FixMyCity — Definición de proyecto
 
 ## Descripción general
 
-CityPulse es una plataforma de gestión de incidencias urbanas que permite a los ciudadanos reportar problemas en la ciudad (baches, farolas fundidas, grafitis, residuos...) y recibir notificaciones del estado y resolución de sus reportes. Los departamentos municipales gestionan las incidencias desde su propio backoffice y notifican la resolución a través de la plataforma.
+FixMyCity es una plataforma de gestión de incidencias urbanas que permite a los ciudadanos reportar problemas en la ciudad (baches, farolas fundidas, grafitis, residuos...) y recibir notificaciones del estado y resolución de sus reportes. Los departamentos municipales gestionan las incidencias desde su propio backoffice y notifican la resolución a través de la plataforma.
 
 El proyecto sirve como portfolio técnico que demuestra el uso de Spring Boot, Spring AI, arquitectura hexagonal, comunicación asíncrona con Apache Kafka, despliegue en Kubernetes y buenas prácticas de ingeniería de software.
 
